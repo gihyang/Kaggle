@@ -17,7 +17,7 @@
 2. ML
 - 데이터 전처리 : 이상값, 수치형변수 스케일링, target 변수 로그변환 등
 - EDA 결과 반영해서 target이 casual일 때와 registered일 때로 나눠 예측했다.
-- 첫 번째 모델 : '''python print(Linear Regression)'''
+- 첫 번째 모델 :   Linear Regression
 - 두 번째 모델 : XGBRegressor
 4. Test RMSLE
 
